@@ -10,7 +10,6 @@
 
 ## 🖥 &nbsp;Past work
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pr0xyP4n7h3r&repo=RustPasswordManager&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Pr0xyP4n7h3r/RustPasswordManager) &nbsp; 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pr0xyP4n7h3r&repo=RustServer&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Pr0xyP4n7h3r/RustServer) &nbsp; 
 
 
