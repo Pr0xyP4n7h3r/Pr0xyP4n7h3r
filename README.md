@@ -9,12 +9,12 @@
 &nbsp;
 
 ## 🖥 &nbsp;Past work
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pr0xyP4n7h3r&repo=RustPasswordManager&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Pr0xyP4n7h3r/RustPasswordManager) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pr0xyP4n7h3r&repo=RustServer&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Pr0xyP4n7h3r/RustServer) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pr0xyp4n7h3r&repo=RustPasswordManager&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Pr0xyP4n7h3r/RustPasswordManager) &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pr0xyp4n7h3r&repo=RustServer&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Pr0xyP4n7h3r/RustServer) &nbsp;
 
 
 ## 📊 &nbsp;Stats
-![P4n7h3r' Github Stats](https://github-readme-stats.vercel.app/api?username=Pr0xyP4n7h3r&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Pr0xyp4n7h3r&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pr0xyP4n7h3r&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
